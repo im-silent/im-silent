@@ -19,8 +19,8 @@
 
 
 <p align="center">
-<a href="https://discord.gg/9stwdsjtRV">Discord<
-<a href="https://www.instagram.com/kailovesyou000">Instagram<
+<a href="https://discord.gg/9stwdsjtRV">Discord
+<a href="https://www.instagram.com/kailovesyou000">Instagram
 
 </p>
 
