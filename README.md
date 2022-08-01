@@ -1,10 +1,10 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET</h2>
 
-<!-- ## 👋 Hello
+👋 Hello
 
-### 👨🏻‍💻 &nbsp;About Me
+👨🏻‍💻 &nbsp;About Me
 
 🎮 &nbsp;I Make Discord Bots
 🎙️ &nbsp;I Speak English And Am Learning French
