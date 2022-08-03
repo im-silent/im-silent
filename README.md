@@ -27,4 +27,3 @@
 -----
 Credits: [EXCET](https://github.com/EXCET)
 
-https://hits.dwyl.com/EXCET/EXCET
