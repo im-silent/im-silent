@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET</h2>
 
-👋 Hello im a dude whos bored
+👋 Hello im Bored
 
 👨🏻‍💻 &nbsp;About Me
 
