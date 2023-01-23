@@ -1,13 +1,10 @@
 [![Hits](http://hits.dwyl.com/EXCET/EXCET.svg)](http://hits.dwyl.com/EXCET/EXCET)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET/HIDDEN</h2>
 
-👋 Hello im Bored
+👋Hello im a small python and html dev come say hi and look at my projects
 
-👨🏻‍💻 &nbsp;About Me
-
-🎮 &nbsp;I Make Discord Bots
-
+👨🏻‍💻About Me: I like To Listen To Music And Code. I Also Play Many Video Games In My Free Time
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -15,16 +12,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Html](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=html)&nbsp;
+![Js](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=js)&nbsp;
+![css](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=css)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
-<p align="center">
-<a href="https://discord.gg/9stwdsjtRV">Discord
-<a href="https://www.instagram.com/j1mmy9121/">Instagram
-
-</p>
-
 -----
+
 Credits: [EXCET](https://github.com/EXCET)
 
 ### ⚙️ &nbsp;GitHub Analytics
