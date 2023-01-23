@@ -6,6 +6,8 @@
 
 👨🏻‍💻About Me: I like To Listen To Music And Code. I Also Play Many Video Games In My Free Time
 
+🍁Canadian Developer
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
