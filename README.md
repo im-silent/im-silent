@@ -2,9 +2,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET/HIDDEN</h2>
 
-👋Hello im a small python and html dev come say hi and look at my projects
+👋Hello https://pastebin.com/4362uFpN
 
-👨🏻‍💻About Me: I like To Listen To Music And Code. I Also Play Many Video Games In My Free Time
+👨🏻‍💻About Me: I like To Listen To Music And Code. I Also Play Many Video Games In My Free Time (14 Years Old)
 
 🍁Canadian Developer
 
