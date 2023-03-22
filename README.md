@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET/HIDDEN</h2>
 
-👋Hello https://pastebin.com/4362uFpN
+👋Hello [https://pastebin.com/4362uFpN](https://pastebin.com/kkytJ1KW)
 
 👨🏻‍💻About Me: I like To Listen To Music And Code. I Also Play Many Video Games In My Free Time (14 Years Old)
 
