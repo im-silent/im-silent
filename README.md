@@ -1,6 +1,6 @@
 [![Hits](http://hits.dwyl.com/EXCET/EXCET.svg)](http://hits.dwyl.com/EXCET/EXCET)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET/HIDDEN</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Silent</h2>
 
 👋Hello [https://pastebin.com/4362uFpN](https://pastebin.com/kkytJ1KW)
 
@@ -21,13 +21,13 @@
 
 -----
 
-Credits: [EXCET](https://github.com/EXCET)
+Credits: [SILENT](https://github.com/dev-silent)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/EXCET">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EXCET&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EXCET&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dev-silent">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-silent&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-silent&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
