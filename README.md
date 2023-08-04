@@ -1,6 +1,6 @@
 [![Hits](http://hits.dwyl.com/EXCET/EXCET.svg)](http://hits.dwyl.com/EXCET/EXCET)
 
-https://cdn.discordapp.com/banners/988646225727336508/ef1b65afe6bf02ad176302ebf9c4b3d5.png?size=600
+![Image] (https://cdn.discordapp.com/banners/988646225727336508/ef1b65afe6bf02ad176302ebf9c4b3d5.png?size=600)
 
 <h1 align="center">Hi 👋, I'm Silent</h1>
 <h3 align="center">14 Year Old Python/Html/C# Dev</h3>
