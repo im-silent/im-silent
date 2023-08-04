@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Silent</h1>
 <h3 align="center">14 Year Old Python/Html/C# Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-silent" alt="dev-silent" /></a> </p>
-
 - 🔭 I’m currently working on [N/A](N/A)
 
 - 🌱 I’m currently learning **C# And Html**
