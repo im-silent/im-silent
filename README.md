@@ -1,6 +1,6 @@
 [![Hits](http://hits.dwyl.com/EXCET/EXCET.svg)](http://hits.dwyl.com/EXCET/EXCET)
 
-<img src="https://cdn.discordapp.com/banners/988646225727336508/ef1b65afe6bf02ad176302ebf9c4b3d5.png?size=600" height="200" width="1000">
+<img src="[https://cdn.discordapp.com/banners/988646225727336508/ef1b65afe6bf02ad176302ebf9c4b3d5.png?size=600](https://media.discordapp.net/attachments/1092281526290497616/1193156865446649866/a_682f281c321486b0776ba17197f25d11.gif?ex=65abb0ec&is=65993bec&hm=1cd1594f3f880e499f8687e22db8415462e0239245a7a38f11fc1da88b2e0450&=)" height="200" width="1000">
 
 <h1 align="center">Hi 👋, I'm Silent</h1>
 <h3 align="center">14 Year Old Python/Html/C# Dev</h3>
